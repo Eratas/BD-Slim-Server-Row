@@ -15,3 +15,6 @@ FOR /F "delims=" %%i IN ('dir /b /ad-h /t:c /od') DO SET a=%%i
 start Update.exe
 
 start %a%\Discord.exe --disable-smooth-scrolling
+
+
+Thanks to r/u/Holycraplol/
