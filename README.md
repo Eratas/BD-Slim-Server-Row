@@ -17,4 +17,4 @@ start Update.exe
 start %a%\Discord.exe --disable-smooth-scrolling
 
 
-Thanks to r/u/Holycraplol/
+Thanks to r/u/Holycraplol
